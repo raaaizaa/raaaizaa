@@ -1,7 +1,6 @@
 <h1 align="center">hi i'm raiza 👋</h1>
 - 🌱 I’m currently learning **frontend development and mobile app development!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
