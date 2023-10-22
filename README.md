@@ -9,4 +9,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaaizaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="raaaizaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaaizaa&" alt="raaaizaa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaaizaa&theme=tokyonight" alt="raaaizaa" /></p>
